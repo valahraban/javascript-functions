@@ -1,4 +1,4 @@
-// Durstenfeld shuffle based on the older Fisher-Yates shuffle. Credit to the inventors.
+// Durstenfeld shuffle based on the older Fisher-Yates shuffle. Credit to the inventors. This implementation is WTFPL licensed by valahraban.
 // This implementations draws x amount of members from a list and randomly outputs them.
 // Originally written for AID entries and intended to be combined with regex parsing of string entries.
 // Example function calls at the beginning.
